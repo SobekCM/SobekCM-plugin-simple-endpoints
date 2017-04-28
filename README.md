@@ -5,4 +5,4 @@ This plug-in requires the very latest code to work, due to changes in the SobekC
 
 This plug-in uses code developed with Richard Bernardy that is also available at https://github.com/rbernardy/SobekCM-plugin-endpoint-EDS
 
-This was developed at the SobekCM Code Camp 2017.
+This was developed as a demonstration plug-in during the SobekCM Code Camp 2017 in Cape Canaveral, FL.
